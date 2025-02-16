@@ -9,7 +9,7 @@ export class AdminService {
   }
 
   findAll() {
-    return `This action returns all admin`;
+    return `This action returns all admin!`;
   }
 
   findOne(id: number) {
