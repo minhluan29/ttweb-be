@@ -1,0 +1,13 @@
+{
+  "packages": [
+    { "feature": "Email Send", "role": ["free", "pre", "god"] },
+    { "feature": "Subscribe", "role": ["pre", "god"] },
+    { "feature": "UnSubscribe", "role": ["pre", "god"] },
+    { "feature": "Custom Email", "role": ["pre", "god"] }
+  ],
+  "prices": [
+    { "name": "free", "price": 0 },
+    { "name": "pre", "price": 14.99 },
+    { "name": "god", "price": 24.99 }
+  ]
+}
